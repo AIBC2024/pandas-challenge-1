@@ -12,7 +12,7 @@ Pandas Challange AI Bootcamp due 12/24/2024
 4. Debut and test multiple times
 
 ## Output Examples
-See attached file wholesale_data_analysis_code_and_result.html
+See attached file wholesale_data_analysis_code_and_result.html(https://htmlpreview.github.io/?https://github.com/AIBC2024/pandas-challenge-1/blob/main/wholesale_data_analysis_code_and_result.html)
 
 
 
